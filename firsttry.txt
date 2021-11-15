@@ -1,0 +1,2 @@
+ini adalah latihan mandiiri pertama
+saya sedang mencoba memahami git
